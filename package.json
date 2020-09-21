@@ -1,0 +1,16 @@
+{
+  "name": "react-avanzado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Raul Perez",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "nodemon": "^2.0.4"
+  }
+}
